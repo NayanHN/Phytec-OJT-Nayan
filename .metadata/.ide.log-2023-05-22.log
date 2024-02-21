@@ -1,0 +1,29 @@
+2023-05-22 00:02:13,888 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:02:13,943 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:02:13,955 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:03:03,760 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:03:03,764 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:03:03,767 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:03:03,799 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:03:03,800 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:03:03,801 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:12:35,029 [ERROR] AdobePublisher:183 - Exception while getting the server answer: java.net.SocketTimeoutException: Read timed out
+2023-05-22 00:28:53,045 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:28:53,047 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:28:53,054 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:28:57,567 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:28:57,569 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:28:57,570 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-22 00:31:59,025 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-05-22 00:31:59,026 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-05-22 00:31:59,027 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-05-22 00:31:59,027 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-05-22 00:31:59,027 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-05-22 17:38:12,151 [INFO] Activator:176 - 
+
+
+2023-05-22 17:38:12,168 [INFO] Activator:177 - !SESSION log4j initialized
+2023-05-22 17:38:23,800 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-05-22 17:38:47,924 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-05-22 17:38:47,925 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-05-22 17:38:47,925 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

@@ -1,0 +1,10 @@
+18:37:17 **** Incremental Build of configuration Debug for project AHT25_TEMP ****
+make -j4 all 
+arm-none-eabi-size   AHT25_TEMP.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28340	    484	   1748	  30572	   776c	AHT25_TEMP.elf
+Finished building: default.size.stdout
+ 
+
+18:37:17 Build Finished. 0 errors, 0 warnings. (took 403ms)
+

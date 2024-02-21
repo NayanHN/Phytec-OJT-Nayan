@@ -1,0 +1,10 @@
+15:25:25 **** Incremental Build of configuration Debug for project FRERTOS_AHT25 ****
+make -j4 all 
+arm-none-eabi-size   FRERTOS_AHT25.elf 
+   text	   data	    bss	    dec	    hex	filename
+  47348	    492	  20532	  68372	  10b14	FRERTOS_AHT25.elf
+Finished building: default.size.stdout
+ 
+
+15:25:25 Build Finished. 0 errors, 0 warnings. (took 469ms)
+

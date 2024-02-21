@@ -1,0 +1,10 @@
+16:34:12 **** Build of configuration Debug for project ADC for v ****
+make -j4 all 
+arm-none-eabi-size   ADC\ for\ v.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7648	     20	   1636	   9304	   2458	ADC for v.elf
+Finished building: default.size.stdout
+ 
+
+16:34:13 Build Finished. 0 errors, 0 warnings. (took 760ms)
+

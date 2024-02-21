@@ -1,0 +1,10 @@
+16:34:51 **** Build of configuration Debug for project temp1 ****
+make -j4 all 
+arm-none-eabi-size   temp1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25132	    484	   1684	  27300	   6aa4	temp1.elf
+Finished building: default.size.stdout
+ 
+
+16:34:52 Build Finished. 0 errors, 0 warnings. (took 684ms)
+

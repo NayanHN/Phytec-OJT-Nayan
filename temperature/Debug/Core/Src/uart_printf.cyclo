@@ -1,0 +1,2 @@
+uart_printf.c:20:6:UART_Printf	1
+uart_printf.c:29:6:UART_Printf_Dbg	1

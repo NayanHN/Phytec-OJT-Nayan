@@ -1,0 +1,10 @@
+16:34:47 **** Build of configuration Debug for project lb using bsrr ****
+make -j4 all 
+arm-none-eabi-size   lb\ using\ bsrr.elf 
+   text	   data	    bss	    dec	    hex	filename
+    952	     12	   1572	   2536	    9e8	lb using bsrr.elf
+Finished building: default.size.stdout
+ 
+
+16:34:48 Build Finished. 0 errors, 0 warnings. (took 694ms)
+
